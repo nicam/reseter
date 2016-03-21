@@ -43,8 +43,4 @@ function restartModem(action) {
   });
 }
 
-function notifyAboutRestart() {
-
-}
-
 pingGoogle();
